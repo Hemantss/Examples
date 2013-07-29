@@ -1,4 +1,4 @@
 Examples
 ========
 
-Test and experiment with deferent programming languages.
+Test and experiment with c++, python and opengl.
